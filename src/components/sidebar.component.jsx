@@ -6,7 +6,7 @@ export const Sidebar = () => (
         <div className="sidebar-inner">
             <a href="#one"><div className="link">Home</div></a>
             <a href="#two"><div className="link">Products</div></a>
-            <a href="#third"><div className="link">Web Application</div></a>
+            <a href="#three"><div className="link">Web Application</div></a>
             <a href="#footer"><div className="link">Android Application</div></a>
         </div>
         <div className="social">
