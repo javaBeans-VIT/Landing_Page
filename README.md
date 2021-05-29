@@ -3,6 +3,7 @@
 <br>
 <h2>About Our Project</h2>
 <p>coviDB is an all in one kind of Project, which comprises of 2 broad components, a web application and an android mobile application. We have aimed to solve a very common problem of lack of information and inability to accquire resources when in need. The two problems previously mentioned have been addressed in our web and mobile applications in proper manner. The features and Tech Stack of our Applications have been discussed briefly below.</p>
+<img align='center' src='https://github.com/javaBeans-VIT/Landing_Page/blob/main/snaps/products.PNG'></img>
 <br>
 <h2>Web Application</h2>
 <img align='center' src='https://github.com/javaBeans-VIT/Landing_Page/blob/main/snaps/web_feature.PNG'></img>
