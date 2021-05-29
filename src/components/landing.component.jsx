@@ -92,7 +92,7 @@ export const Landing = () => (
               Country Wise vaccination Prediction and Visualization
             </div>
           </div>
-          <a className='hide' href=""><div className='card' id="link-web">
+          <a target="_blank" className='hide' href="http://projcovi.com/"><div className='card' id="link-web">
             Visit Our Web Application
           </div></a>
         </div>
@@ -118,7 +118,7 @@ export const Landing = () => (
           <div className="grp">
             <div className="card">Global Covid Case enumaration</div>
           </div>
-          <a className='hide' href="#"><div className='card' id="link-web">
+          <a className='hide' href="https://drive.google.com/uc?id=1_84WM_VFDYBkuSWnDtLvGCNGVxqgaf3R&export=download"><div className='card' id="link-web">
             Download Our Android Application
           </div></a>
         </div>

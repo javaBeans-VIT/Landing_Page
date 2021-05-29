@@ -39,7 +39,7 @@
     font-weight: 700;
 }
 #two {
-    background: linear-gradient(180deg, #002A4A, #02121F);
+    background: linear-gradient(90deg, #002A4A, #02121F);
     padding: 20px;
     display: flex;
     justify-content: center;
