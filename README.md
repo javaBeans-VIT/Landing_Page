@@ -22,4 +22,4 @@
 <p><img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'></img>Studio <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></p>
 <hr>
 <h2>Links to different Components of coviDB</h2>
-<p><b>Web Application - </b><a href='https://github.com/javaBeans-VIT/coviDB-Web'><code>https://github.com/javaBeans-VIT/coviDB-Web</code></a><br><b>Android Mobile Application - </b><a href='https://github.com/javaBeans-VIT/CoviDB-App'><code>https://github.com/javaBeans-VIT/CoviDB-App</code></a></p>
+<p><b>Web Application - </b><a href='https://github.com/javaBeans-VIT/coviDB-Web'><code>https://github.com/javaBeans-VIT/coviDB-Web</code></a><br><b>Android Mobile Application - </b><a href='https://github.com/javaBeans-VIT/CoviDB-App'><code>https://github.com/javaBeans-VIT/CoviDB-App</code></a><br><b>Machine Learning - </b><a href='https://github.com/s0uravpandey/CoviDB_ML'><code>https://github.com/s0uravpandey/CoviDB_ML</code></a></p>
